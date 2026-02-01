@@ -35,3 +35,6 @@ I'm a graduate student at **Beihang University** (北京航空航天大学), spe
 [![MPC](https://img.shields.io/badge/Model%20Predictive%20Control-2F81F7?style=flat-square&logo=mathworks&logoColor=white)]()
 
 ---
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+- Email: atticlmr@gmail.com
