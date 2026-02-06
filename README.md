@@ -17,12 +17,17 @@ I'm Li Mingrui, a graduate student at **Beihang University** (北京航空航天
 
 ### 🛠️ Technical Stack
 
+#### Modeling & CAD
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)]()
+[![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)]()
+
 #### Simulation & Robotics
 [![IsaacLab](https://img.shields.io/badge/IsaacLab-000000?style=flat-square&logo=nvidia&logoColor=76B900)](https://developer.nvidia.com/isaac/lab)
 [![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/isaac/sim)
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
 [![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)](https://wiki.ros.org/)
 [![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=flat-square&logo=gazebo&logoColor=white)]()
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)]()
 
 #### Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
