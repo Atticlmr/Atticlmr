@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mingrui+Li;Robotics+%26+RL+Researcher;Simulation+%7C+Control+%7C+Autonomy)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Li+Mingrui;Robotics+%26+RL+Researcher;Simulation+%7C+Control+%7C+Autonomy)](https://git.io/typing-svg)
 
   <a href="https://www.buaa.edu.cn/">
     <img src="https://img.shields.io/badge/Beihang%20University-004EA2?style=for-the-badge&logo=university&logoColor=white" />
