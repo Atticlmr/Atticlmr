@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm Li Mingrui, a graduate student at **Beihang University** (北京航空航天大学), specializing in **Dynamics and Control**. My research sits at the intersection of **Reinforcement Learning** and **Model Predictive Control**, with a strong focus on high-fidelity physics simulation for robotic systems.
+I'm Li Mingrui. My research sits at the intersection of **Reinforcement Learning** and **Model Predictive Control**, with a strong focus on high-fidelity physics simulation for robotic systems.
 
 ---
 
